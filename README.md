@@ -1,2 +1,2 @@
 # Practice
-revision of Git &amp; GitHub class
+revision of Git &amp; GitHub class .
